@@ -1,0 +1,11 @@
+.products__item {
+    width: 380px;
+    height: 435px;
+}
+.news__item {
+    width: 380px;
+    height: 480px;
+}
+body, html {
+    scroll-behavior: smooth;
+}
